@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1699963696 source:c:\users\user\desktop\alx-github-repo\cpp_projects\random mini projects\assignment8_stl\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<bits/stdc++.h>
+	<set>
+
